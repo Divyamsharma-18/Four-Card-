@@ -1,0 +1,22 @@
+.darkBlue{
+    color: hsl(234, 12%, 34%);
+}
+.grayBlue{
+    color: hsl(229, 6%, 66%);
+}
+body{
+    background-color: hsl(0, 0%, 98%);
+}
+.firstPart{
+    border-top: 4px solid hsl(180, 62%, 55%);
+}
+.second{
+    border-top: 4px solid hsl(0, 78%, 62%);
+    }
+.third{
+    border-top: 4px solid hsl(34, 97%, 64%);
+    }
+.fourth{
+    border-top: 4px solid hsl(212, 86%, 64%);
+
+}
